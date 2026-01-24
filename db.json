@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "username": "bar",
+    "password": "1",
+    "role": "admin",
+    "expired": null
+  }
+]
