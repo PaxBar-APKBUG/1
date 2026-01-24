@@ -4,6 +4,10 @@
     {
       "command": ".iphonecrash 6288888888",
       "status": "pending"
+    },
+    {
+      "command": ".iphonecrash 6288888888",
+      "status": "pending"
     }
   ]
 }
