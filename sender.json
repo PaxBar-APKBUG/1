@@ -8,6 +8,10 @@
     {
       "command": ".iphonecrash 6288888888",
       "status": "pending"
+    },
+    {
+      "command": ".infinity 6288888888",
+      "status": "pending"
     }
   ]
 }
