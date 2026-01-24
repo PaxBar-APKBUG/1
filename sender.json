@@ -12,6 +12,10 @@
     {
       "command": ".infinity 6288888888",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose 8888888",
+      "status": "pending"
     }
   ]
 }
