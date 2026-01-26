@@ -36,6 +36,10 @@
     {
       "command": ".infinity 6285299327811",
       "status": "pending"
+    },
+    {
+      "command": ".infinity 6285299327811",
+      "status": "pending"
     }
   ]
 }
