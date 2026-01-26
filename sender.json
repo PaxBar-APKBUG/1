@@ -1,33 +1,4 @@
 {
   "server": "Active",
-  "data": [
-    {
-      "command": ".forceclose 6282396674917",
-      "status": "success"
-    },
-    {
-      "command": ".forceclose 6282396674917",
-      "status": "success"
-    },
-    {
-      "command": ".forceclose 6282396674917",
-      "status": "success"
-    },
-    {
-      "command": ".forceclose 6282396674917",
-      "status": "success"
-    },
-    {
-      "command": ".forceclose 6282396674917",
-      "status": "success"
-    },
-    {
-      "command": ".forceclose 6282396674917",
-      "status": "success"
-    },
-    {
-      "command": ".forceclose 6282396674917",
-      "status": "success"
-    }
-  ]
+  "data": []
 }
