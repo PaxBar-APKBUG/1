@@ -20,6 +20,10 @@
     {
       "command": ".forceclose 8888888",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose 6282396674917",
+      "status": "pending"
     }
   ]
 }
